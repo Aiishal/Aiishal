@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aisha
+- 👋 Hi, I’m Eishah
 - 👀 I’m interested in Ai and programming 
 - 🌱 I’m currently learning IOT and mechanical engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me press aiiush127@gmail.com
+- 📫 How to reach me press eishah.almaqadi@gmail.com
